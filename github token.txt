@@ -1,0 +1,3 @@
+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
+
+git push https://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@git@github.com:yurippo/alura_DevOps_challenge.git

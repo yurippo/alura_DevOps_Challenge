@@ -1,0 +1,3 @@
+http://url-do-server:8080/swagger-ui/index.html#/
+
+http://18.188.42.20:8080/swagger-ui/index.html#/
